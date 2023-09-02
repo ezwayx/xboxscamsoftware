@@ -1,5 +1,6 @@
 # ℹ️ Console Code ScamWare
 Contact | @ezwayx on telegram
+Discord | https://discord.gg/gN3tvbWPAF
 
 # 📖 Method
 - Contact me for the method that you use with this software.
