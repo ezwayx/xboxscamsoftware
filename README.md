@@ -1,8 +1,9 @@
-# xbxcodegen info
+# ℹ️ Console Code ScamWare
+Contact | @ezwayx on telegram
 
-# Updates
-- Check this page for updates, I will send it in the telegram channel when it is updated.
-- Message = https://t.me/ezwayx
+# 📖 Method
+- Contact me for the method that you use with this software.
+- If you have this code you dont have to buy the method I will send it for free.
 
-# Bug Report
-- Message me on telegram to report any bugs, they will be fixed.
+# ⚙️ Console Code Scam Ware Current Update
+- BETA / V.1 Coming end of September
